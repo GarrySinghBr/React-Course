@@ -1,2 +1,2 @@
 # React-Course
-Repository for projects related to Udemy Course - LINK. 
+Repository for code solutions for Udemy course : https://www.udemy.com/course/the-ultimate-react-course/?couponCode=SEPTSTACK24B.
